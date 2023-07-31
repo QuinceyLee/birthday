@@ -22,15 +22,15 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "小呆呆生日快乐": "./imgs/小可爱.png",
+        "心爱的小可爱": "./imgs/dakeai.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        play: "音乐呢？MUSIC",
+        bannar_coming: "颜色好像有点淡",
+        balloons_flying: "好像少点东西，气球呢？",
         cake_fadein: "蛋糕？马上就来",
         light_candle: "蜡烛？马上就吹",
         wish_message: "生日快乐 马上就来咯",
